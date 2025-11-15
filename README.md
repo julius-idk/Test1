@@ -22,7 +22,7 @@ Showcase-Kurzvideo: https://youtu.be/V0gydLsA_js
 - Cleanup: Timer + Event-basiert
 
 ## Rechtlicher Hinweis
-Nur in autorisierten Umgebungen nutzen. Keine Tests auf fremden Servern ohne Erlaubnis.
+Darf frei kopiert, genutzt und verändert werden. 
 
 ## Lizenz
 MIT
