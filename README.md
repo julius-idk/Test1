@@ -13,14 +13,12 @@
 ## Demo
 Showcase-Kurzvideo: https://youtu.be/V0gydLsA_js
 
-## Installation
-1. Den gesammten Skript ingame per Debug Console ausführen 
-2. In `mission_demo/init.sqf` (Beispiel unten) einbinden.  
-3. Spiel starten, **CTRL + O** drücken, mit Mausrad bestätigen.
+## Verwendung
+1. Ingame die Debug Console öffnen und das Skript dort einfügen, dann mit dem Local Exec Knopf ausführen. 
 
 ## Technik
-- Netzwerk: `remoteExec`, `publicVariable`, JIP-IDs
-- Events: KeyDown, AddAction, GetIn/Killed/Deleted, Respawn
+- Netzwerk: `remoteExec`, `publicVariable`, Join In Progress (JIP)-IDs
+- EventHandler: Display: KeyDown, AddAction für das Scroll Menü, GetIn/Killed/Deleted für das Quad, Respawn zum re-adden des Keybinds nach dem Tod.
 - Cleanup: Timer + Event-basiert
 
 ## Rechtlicher Hinweis
