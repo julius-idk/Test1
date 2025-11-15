@@ -11,7 +11,7 @@
 - **Sicherheit:** Doppeltstart-Schutz, Cooldown
 
 ## Demo
-Kurzvideo: *media/demo.mp4* (20–30 Sek.)
+Kurzvideo: https://youtu.be/V0gydLsA_js
 
 ## Installation
 1. `src/quad_airdrop.sqf` in die Mission kopieren.  
